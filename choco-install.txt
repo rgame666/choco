@@ -1,0 +1,23 @@
+# Simple environment setup script
+
+# Install Applications
+choco install notepadplusplus -y
+choco install vscode -y
+choco install greenshot -y
+choco install GoogleChrome -y
+choco install putty -y
+choco install ccleaner -y
+choco install skype -y
+choco install git -y
+
+# Install Utilities
+choco install dropbox -y
+choco install googledrive -y 
+choco install sysinternals -y
+choco install procmon -y
+choco install windirstat -y 
+choco install 7zip -y
+choco install logparser -y
+choco install PowerShellGAC -y
+choco install procexp -y
+choco install cmder -y
